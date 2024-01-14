@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+}
+
+header {
+    background-color: #333;
+    padding: 15px;
+    text-align: center;
+}
+
+header img {
+    max-width: 100px; /* Ajuste conforme necessÃ¡rio */
+    height: auto;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+#recomendacoes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+iframe {
+    margin: 10px;
+}
+
+/* Adicione mais estilos conforme necessÃ¡rio */
+
